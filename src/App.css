@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+.layout {
+  padding: 15px;
+  background-color: #000;
+  border-radius: 10px;
+}
+.row { 
+  text-decoration: none;
+  text-transform: none;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +34,7 @@
 
 .App-link {
   color: #61dafb;
+  text-decoration: none;
 }
 
 @keyframes App-logo-spin {
